@@ -17,4 +17,21 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Execution
+
+### 1. Run the project
+
+```sh
+cd screen.py
+python3 screen.py 
+```
+
+### 2. Check the updated screen.png image
+
+### 3. Just leave the mouse on the trigger button
+
+
+
 
