@@ -16,4 +16,5 @@ It’s ideal for automation, quick response systems, and visual screen monitorin
 Install the required packages with:
 
 ```bash
-pip install pillow pytesseract pyautogui opencv-python numpy mouse
+pip install -r requirements.txt
+
